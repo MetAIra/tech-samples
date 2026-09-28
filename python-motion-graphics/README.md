@@ -176,4 +176,4 @@ scenes.render_frame(0..449)  ×14並列 ─▶ RGBの生データ ───┘
 
 ---
 
-このフォルダは [tech-samples](../) の一部です。記事: (公開後に追記)
+このフォルダは [tech-samples](../) の一部です。記事: https://zenn.dev/metaira/articles/python-only-motion-graphics-mv
